@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to right, #0099cc, #66ccff); /* Cambiar el fondo del cuerpo a un gradiente de azul */
+}
+
+#form{
+    background: linear-gradient(to right, #ff9900, #ffcc66); /* Cambiar el fondo del formulario a un gradiente de naranja */
+    padding: 98px;
+    border-radius: 20px;
+}
+
+#form2{
+    background: linear-gradient(to right, #ff9900, #ffcc66); /* Cambiar el fondo del formulario 2 a un gradiente de naranja */
+    padding: 98px;
+    border-radius: 20px;
+    right: 100px;
+    border: 2px solid #ff3333; /* Cambiar el color del borde a rojo */
+}
+
+#container{
+    background-color: #ff3333; /* Cambiar el color de fondo del contenedor a rojo */
+}
